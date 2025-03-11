@@ -4,6 +4,9 @@ import random
 # Initialize pygame
 pygame.init()
 
+set "version=1.0"
+echo Script Version: %version%
+
 # Game Constants
 WIDTH, HEIGHT = 400, 600
 GRAVITY = 0.5
