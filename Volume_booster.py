@@ -11,7 +11,7 @@ from pycaw.pycaw import AudioUtilities, ISimpleAudioVolume
 class VolumeBooster(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Volume fonem grave🙏🏼🙏🏼😭😭")
+        self.setWindowTitle("Volume fonem grave🙏🏼🙏🏼😭😭 "SLIDERS")
         self.setGeometry(500, 300, 400, 220)
         self.setFixedSize(400, 220)
 
@@ -70,7 +70,7 @@ class VolumeBooster(QWidget):
         """)
 
         # Title
-        title = QLabel("get this at https://math realize.web.app/SLIDERS per app volume")
+        title = QLabel("SLIDERS per app volume")
         title_font = QFont("Segoe UI", 16, QFont.Bold)
         title.setFont(title_font)
         title.setAlignment(Qt.AlignCenter)
