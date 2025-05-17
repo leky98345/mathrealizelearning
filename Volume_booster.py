@@ -11,7 +11,7 @@ from pycaw.pycaw import AudioUtilities, ISimpleAudioVolume
 class VolumeBooster(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Volume fonem grave🙏🏼🙏🏼😭😭 "SLIDERS")
+        self.setWindowTitle("Volume fonem grave🙏🏼🙏🏼😭😭)
         self.setGeometry(500, 300, 400, 220)
         self.setFixedSize(400, 220)
 
