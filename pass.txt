@@ -1,2 +1,3 @@
-ligger,
-LEX
+Ligger, A
+LEX, D
+NIG, B
