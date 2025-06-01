@@ -1,1 +1,2 @@
-ts is CROSS app
+**Updates about other apps to reinstall them or just about CROSS**
+just added "Announcements TAB"
