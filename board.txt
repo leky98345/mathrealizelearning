@@ -1,4 +1,4 @@
 **Updates about other apps to reinstall them or just about CROSS**
 
-added auto type and fixed the proxy it is version BETA 2.1.0
+added auto type and fixed the proxy it is version BETA 2.2.0
 
