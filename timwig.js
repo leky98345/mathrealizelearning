@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const christmasCountdown = document.getElementById('christmas-countdown');
 
                                              // change the dates and shit here//
-    const thanksgivingBreak = new Date('February 17, 2025 9:30:00'); //countdown 1    
+    const thanksgivingBreak = new Date('August 12, 2025 9:30:00'); //countdown 1    
     const christmasBreak = new Date('May 28, 2025 12:30:00');   //countdown 2
 
     function updateCountdown() {
@@ -18,9 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const thanksgivingHours = Math.floor((thanksgivingTimeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
             const thanksgivingMinutes = Math.floor((thanksgivingTimeLeft % (1000 * 60 * 60)) / (1000 * 60));
             const thanksgivingSeconds = Math.floor((thanksgivingTimeLeft % (1000 * 60)) / 1000);
-            thanksgivingCountdown.innerHTML = ` 🤵President’s day: ${thanksgivingDays}d ${thanksgivingHours}h ${thanksgivingMinutes}m ${thanksgivingSeconds}s left!`;
+            thanksgivingCountdown.innerHTML = ` First Day Of school💔💔: ${thanksgivingDays}d ${thanksgivingHours}h ${thanksgivingMinutes}m ${thanksgivingSeconds}s left!`;
         } else {
-            thanksgivingCountdown.innerHTML = " 🤵President’s day is here cuh on baby";
+            thanksgivingCountdown.innerHTML = "First Day Of school💔💔";
         }
 
         // countdown 2
@@ -44,4 +44,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-//© 2025 Math Realize. All rights reserved//
+//© 2024 Math Realize. All rights reserved//
