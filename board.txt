@@ -3,3 +3,6 @@
 added auto type and fixed the proxy it is version <<VERSION>>
 
 and fixed a little bit if bugs
+
+
+<<VERSION>>
