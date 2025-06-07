@@ -4,4 +4,4 @@ added auto type and fixed the proxy it is version <<VERSION>>
 
 and fixed a little bit if bugs
 
-version: <<VERSION>>
+The Current Version:<<VERSION>>.
