@@ -3,4 +3,4 @@ I'm working on a big ass update just Trust
 Free password is "FREE"
 --BR--
 --BR--
-CROSS Is at --VERSION--
+CROSS Is at "--VERSION--"
