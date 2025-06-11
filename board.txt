@@ -2,6 +2,6 @@
 
 added auto type and fixed the proxy it is version <<VERSION>>
 
-and fixed a little bit if bugs
+In the latest update WE combined clock and class section cause why not WE yeah no WE are gonna add somthing new soon
 
 The Current Version:<<VERSION>>.
