@@ -1,7 +1,5 @@
 **Updates about other apps to reinstall them or just about CROSS**
 
-added auto type and fixed the proxy it is version <<VERSION>>
-
-In the latest update WE combined clock and class section cause why not WE yeah no WE are gonna add somthing new soon
+made the updates better which means no more auto update but it will install the nee version into the same folder you just jave to delete the current version
 
 The Current Version:<<VERSION>>.
