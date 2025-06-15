@@ -4,3 +4,5 @@ Free password is "FREE"
 --BR--
 --BR--
 Project CROSS is comming out soon it's on "--VERSION--"
+--BR--
+fixed dark mode finally 
