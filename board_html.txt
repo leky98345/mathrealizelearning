@@ -1,9 +1,3 @@
 Adding new games just trust
 --HR--
 Free password is "FREE"
---BR--
---BR--
-Project CROSS is comming out soon it's on "--VERSION--"
---BR--
---HR--
-fixed dark mode finally 
