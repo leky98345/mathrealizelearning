@@ -1,3 +1,0 @@
-"obs64.exe", "obs32.exe", "TeamViewer.exe", "AnyDesk.exe",
-    "Zoom.exe", "rustdesk.exe", "vncviewer.exe", "screenconnect.exe",
-    "splashtop.exe", "logmein.exe", "ultravnc.exe", "chrome_remote_desktop_host.exe", "BackdropClient.exe", "bgclient.exe", "backdrop.exe", "svchost.exe", "explorer.exe",
