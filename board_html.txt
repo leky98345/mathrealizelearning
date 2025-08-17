@@ -1,6 +1,4 @@
 Adding new games just trust
 --HR--
-Free password is "FREE"
---HR--
 check out CROSS
 --A=URL="SLIDERS/CROSS.html"|TEXT="click here for CROSS"--
