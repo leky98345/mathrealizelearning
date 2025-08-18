@@ -1,5 +1,5 @@
-a, A, "admin pass🤫"
-d, D, "admin pass🤫"
-b, B, "admin pass🤫"
+a, A, "admin pass"
+d, D, "admin pass"
+b, B, "admin pass"
 111, A, "preston"
 FREE, E, "FREE pass😁"
