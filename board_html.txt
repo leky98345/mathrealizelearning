@@ -2,6 +2,6 @@ Adding new games just trust
 --HR--
 check out CROSS
 --HR--
-free password is "FREE"
+riley
 --HR--
 --A=URL="SLIDERS/CROSS.html"|TEXT="click here for CROSS"--
